@@ -6,6 +6,11 @@
 Chrome extension that will make button clicks trigger an instantly recognizable 'WOW' with a visual confetti pop!
 
 ## Installation
+
+### Preferred Method
+[Install via the Chrome Web Store](https://chrome.google.com/webstore/detail/owen-wilson-buttons/bjmcjbjbipaaobcedgdpejjfnlgiojon?hl=en&authuser=0).
+
+### Alternative Method
 1. Download the repository.
 2. Unzip the contents to a location that the extension can remain. Take note of this location.
 3. In Chrome, click the puzzle piece in the top right corner of the browser window and select "Manage Extensions".
